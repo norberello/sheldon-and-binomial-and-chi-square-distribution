@@ -6,3 +6,9 @@ sheldon and binomial and chi-square distribution
 alt="Simply Easy Learning">
 </center>
 <p>
+<p>
+<center>
+<img src="chi square.png",
+alt="Simply Easy Learning">
+</center>
+<p>
