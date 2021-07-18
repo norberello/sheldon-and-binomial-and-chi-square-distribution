@@ -1,4 +1,4 @@
-# sheldon-and-binomial-and-chi-square-distribution
+# sheldon-and-binomial-and-chi-square-distributions
 sheldon and binomial and chi-square distribution
 <p>
 <center>
